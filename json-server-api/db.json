@@ -1,0 +1,1455 @@
+{
+  "data": [
+    {
+      "who_rules": "kodit.io",
+      "date": "2019-05-17",
+      "results": [
+        {
+          "project_id": "0095",
+          "address": "Savilankatu 1 b A 12",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.1873668, lng: 24.9202473",
+          "address_country": "Finland",
+          "address_neighbourhood": "Töölö",
+          "address_postcode": "00250",
+          "address_street": "Savilankatu 1 b A 12",
+          "agent": "Katariina Suvisaari-Kallio",
+          "agent_email": "katariina@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/katariina-suvisaari-avatar.jpg",
+          "agent_telephone": "0405088463",
+          "agent_title": "Sales Manager, Kiat",
+          "apartment_images": [
+            "/assets/images/apts/D3_9347.jpg",
+            "/assets/images/apts/D3_9348-1.jpg",
+            "/assets/images/apts/D3_9349.jpg",
+            "/assets/images/apts/D3_9350.jpg",
+            "/assets/images/apts/D3_9351.jpg",
+            "/assets/images/apts/D3_9355.jpg",
+            "/assets/images/apts/D3_9356.jpg",
+            "/assets/images/apts/D3_9358.jpg",
+            "/assets/images/apts/D3_9359.jpg",
+            "/assets/images/apts/D3_9360.jpg",
+            "/assets/images/apts/D3_9361.jpg",
+            "/assets/images/apts/D3_9364.jpg",
+            "/assets/images/apts/D3_9365.jpg",
+            "/assets/images/apts/D3_9366.jpg",
+            "/assets/images/apts/D3_9368.jpg",
+            "/assets/images/apts/D3_9369.jpg",
+            "/assets/images/apts/D3_9372.jpg",
+            "/assets/images/apts/D3_9373.jpg",
+            "/assets/images/apts/D3_9376.jpg",
+            "/assets/images/apts/D3_9377.jpg",
+            "/assets/images/apts/D3_9381.jpg",
+            "/assets/images/apts/D3_9383.jpg",
+            "/assets/images/apts/D3_9388.jpg",
+            "/assets/images/apts/D3_9393.jpg",
+            "/assets/images/apts/savilankatu1ba12_logo.jpg"
+          ],
+          "building_year": "1937",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h, k",
+          "description_details": [
+            "Valo soljuu kauniisti tämän läpitalon huoneiston halki ja korkea huonekorkeus lisää avaruutta ja tilan tuntua. Asunnon avoin keittiö kutsuu viettämään aikaa yhdessä ja eteisen kaarikäytävä ja vanhat kaapistot ovat omiaan luomaan tunnelmaa ja luonnetta tälle kodille.",
+            "Asunnon pintoja on päivitetty hiljattain ja kylpyhuonetta on remontoitu trendikkäällä mikrosementillä. Taloyhtiö on rauhallisemmalla sivukadulla, eikä isompia remontteja ole suunniteltu lähivuosille.",
+            "Tämä vuoden 1938 talo sijaitsee Töölössä lähellä kulttuuria ja keskustan palveluita, loistavien kulkuyhteyksien varrella. Täältä pääset nopeasti myös luonnon rauhaan, sillä sekä Töölönlahden että Keskuspuiston mahtavat ulkoilumaastot löytyvät aivan läheltä.",
+            "Mahdollisuuksien koti - tervetuloa tutustumaan.",
+            "Kodit.io:lla on mahdollisuus tarjota myös nykyisestä kodistasi!"
+          ],
+          "description_heading": "Tämä koti on kaunis yhdistelmä vanhaa ja uutta.",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14954836",
+          "image": "/assets/images/apts/D3_9348-600x400.jpg",
+          "maintenance_fee": "258.50",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 379000,
+          "renovation_fee": 0,
+          "room_details": [
+            {
+              "room_features": [
+                "Jääkaappi-pakastin",
+                "Astianpesukone",
+                "Kalusteuuni",
+                "Liesitaso"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "Pesukoneliitäntä",
+                "Mikrosementti"
+              ],
+              "room_name": "Kylpyhuone"
+            }
+          ],
+          "rooms": 2,
+          "size": 55,
+          "status": "ready",
+          "titleEncoded": "savilankatu-1-b-a-12",
+          "total_floors": "7",
+          "filename": "savilankatu-1-b-a-12/",
+          "price_sqm": 6891,
+          "compared_price": "This price is high"
+        },
+        {
+          "project_id": "TKU3",
+          "address": "Kauppiaskatu 20 B 29",
+          "address_city": "Turku",
+          "address_coordinates": "lat: 60.4526198, lng: 22.2671186",
+          "address_country": "Finland",
+          "address_neighbourhood": "Keskusta",
+          "address_postcode": "20100",
+          "address_street": "Kauppiaskatu 20 B 29",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/Kauppiaskatu20B29-10-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-11-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-12-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-13-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-14-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-16-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-19-of-27.jpg",
+            "/assets/images/apts/Kauppiaskatu20B29-20-of-27.jpg"
+          ],
+          "building_year": "1926",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h, k",
+          "description_details": [
+            "Valoisa koti keskeisellä paikalla lähellä kauppatoria ja Aurajoenrantaa! Kaikki palvelut ja jokirannan ulkoilumahdollisuudet lähellä, keskusta-asumista parhaimmillaan.",
+            "Valo virtaa suurista ruutuikkunoista kauniisti sisään ja vanhat ikkunalaudat ja patterit tuovat tähän kotiin tunnelmaa. Asunto on yhtiöjärjestyksen mukaisesti 3h+k, joten asuntoon on mahdollista muokata helposti toinen makuuhuone.",
+            "Asunnon pintoja on remontoitu hiljattain. Vaaleassa keittiössä on tilaa kokkailla ja laatoitetussa kylpyhuoneessa on tilaa myös pyykkihuollolle. Makuuhuoneessa on loistavasti säilytystilaa ja vaaleat lattiat lisäävät tilantuntua.",
+            "Tämä kaunis, vuoden 1926 talo on hyvin hoidettu, eikä isoja remontteja ole suunnitelmissa lähivuosille.",
+            "Tervetuloa tutustumaan!"
+          ],
+          "description_heading": "Valoisa kaksio!",
+          "floor": "1",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/turku/14961273",
+          "image": "/assets/images/apts/Kauppiaskatu20B29-2-of-27-600x400.jpg",
+          "maintenance_fee": "336.03",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "Korjausvastike: 125,58e/kk",
+          "price": 209000,
+          "renovation_fee": 0,
+          "room_details": [],
+          "rooms": 2,
+          "size": 69,
+          "status": "ready",
+          "titleEncoded": "kauppiaskatu-20-b-29",
+          "total_floors": "5",
+          "filename": "kauppiaskatu-20-b-29/",
+          "price_sqm": 3029,
+          "compared_price": "no data"
+        },
+        {
+          "project_id": "0103",
+          "address": "Puustellinpolku 16 E 33",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.24692425, lng: 24.8613294881824",
+          "address_country": "Finland",
+          "address_neighbourhood": "Malminkartano",
+          "address_postcode": "00410",
+          "address_street": "Puustellinpolku 16 E 33",
+          "agent": "Katariina Suvisaari-Kallio",
+          "agent_email": "katariina@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/katariina-suvisaari-avatar.jpg",
+          "agent_telephone": "0405088463",
+          "agent_title": "Sales Manager, Kiat",
+          "apartment_images": [
+            "/assets/images/apts/D3_9403.jpg",
+            "/assets/images/apts/D3_9404.jpg",
+            "/assets/images/apts/D3_9405.jpg",
+            "/assets/images/apts/D3_9406.jpg",
+            "/assets/images/apts/D3_9408.jpg",
+            "/assets/images/apts/D3_9409.jpg",
+            "/assets/images/apts/D3_9410.jpg",
+            "/assets/images/apts/D3_9413.jpg",
+            "/assets/images/apts/D3_9416.jpg",
+            "/assets/images/apts/D3_9418.jpg",
+            "/assets/images/apts/D3_9419.jpg",
+            "/assets/images/apts/D3_9421.jpg",
+            "/assets/images/apts/D3_9422.jpg",
+            "/assets/images/apts/D3_9423.jpg",
+            "/assets/images/apts/D3_9424.jpg",
+            "/assets/images/apts/D3_9425.jpg",
+            "/assets/images/apts/D3_9426.jpg",
+            "/assets/images/apts/D3_9434.jpg",
+            "/assets/images/apts/D3_9435.jpg",
+            "/assets/images/apts/D3_9438.jpg",
+            "/assets/images/apts/D3_9441.jpg",
+            "/assets/images/apts/D3_9442.jpg",
+            "/assets/images/apts/D3_9449.jpg"
+          ],
+          "building_year": "1985",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h, k",
+          "description_details": [
+            "Tervetuloa tutustumaan muuttovalmiiseen kerrostalokotiin. Asunnossa on tilava avokeittiön ja olohuoneen yhdistelmä. Vaaleaksi remontoidussa keittiössä on mukavasti säilytystilaa ja uudet kodinkoneet, ja avoin tila kutsuu viettämään aikaa yhdessä.",
+            "Kylpyhuone on päivitetty kauniiksi ja eteisen ja makuuhuoneen säilytystilat lisäävät helppoutta arkeen. Asunnon aurinkoisella parvekkeella nautit tulevasta kesästä.",
+            "Loistavat kulkuyhteydet niin autolla kuin julkisillakin, Malminkartanon juna-asema vain kävelymatkan päässä. Alue tarjoaa asukkailleen rauhallisen elinympäristön, jossa lähellä on hyvät ulkoilualueet ja harrastusmahdollisuudet. Vihdintien varresta löydät kattavat päivittäispalvelut ja alueen koulut löytyvät aivan vierestä.",
+            "Ota yhteyttä, niin sovitaan yksityisesittely!",
+            "Kodit.io:lla on mahdollisuus tarjota myös nykyisestä kodistasi!"
+          ],
+          "description_heading": "Muuttovalmis kerrostalokoti",
+          "floor": "2",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14954475",
+          "image": "/assets/images/apts/D3_9434-600x400.jpg",
+          "maintenance_fee": "218.50",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "Vesimaksu: 22e/hlö/kk",
+          "price": 186000,
+          "renovation_fee": 70.8,
+          "room_details": [
+            {
+              "room_features": [
+                "Avokeittiö",
+                "Jääkaappi-pakastin",
+                "Astianpesukone",
+                "Kalusteuuni ja -liesitaso",
+                "Paljon laskutilaa"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Peili- ja allaskaappi",
+                "Suihku",
+                "Pesukoneliitäntä"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Laminaattilattiat",
+                "Kaapistot"
+              ],
+              "room_name": "Makuuhuone"
+            }
+          ],
+          "rooms": 2,
+          "size": 57.5,
+          "status": "ready",
+          "titleEncoded": "puustellinpolku-16-e-33",
+          "total_floors": "4",
+          "filename": "puustellinpolku-16-e-33/",
+          "price_sqm": 3235,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0110",
+          "address": "Rakentajantie 10 E 64",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.2297688, lng: 24.8548973",
+          "address_country": "Finland",
+          "address_neighbourhood": "Reimarla",
+          "address_postcode": "00370",
+          "address_street": "Rakentajantie 10 E 64",
+          "agent": "Katariina Suvisaari-Kallio",
+          "agent_email": "katariina@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/katariina-suvisaari-avatar.jpg",
+          "agent_telephone": "0405088463",
+          "agent_title": "Sales Manager, Kiat",
+          "apartment_images": [
+            "/assets/images/apts/D3_9253.jpg",
+            "/assets/images/apts/D3_9255.jpg",
+            "/assets/images/apts/D3_9258.jpg",
+            "/assets/images/apts/D3_9259.jpg",
+            "/assets/images/apts/D3_9261.jpg",
+            "/assets/images/apts/D3_9264.jpg",
+            "/assets/images/apts/D3_9266.jpg",
+            "/assets/images/apts/D3_9268.jpg",
+            "/assets/images/apts/D3_9269.jpg",
+            "/assets/images/apts/D3_9272.jpg",
+            "/assets/images/apts/D3_9273.jpg",
+            "/assets/images/apts/D3_9274.jpg",
+            "/assets/images/apts/D3_9277.jpg",
+            "/assets/images/apts/D3_9279.jpg",
+            "/assets/images/apts/D3_9280.jpg",
+            "/assets/images/apts/D3_9281.jpg",
+            "/assets/images/apts/D3_9283-1.jpg",
+            "/assets/images/apts/D3_9285.jpg",
+            "/assets/images/apts/D3_9287.jpg",
+            "/assets/images/apts/D3_9290.jpg",
+            "/assets/images/apts/D3_9291.jpg",
+            "/assets/images/apts/D3_9292.jpg",
+            "/assets/images/apts/Pohjakuva.jpg"
+          ],
+          "building_year": "1973",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h, k, p",
+          "description_details": [
+            "Tervetuloa tutustumaan muuttovalmiiseen kerrostalokotiin. Asunnossa on tilava olohuone ja erillinen keittiö, johon mahtuu ruokapöytä. Kylpyhuone ja erillinen wc on päivitetty kauniiksi ja oma vaatehuone lisää helppoutta arkeen.",
+            "Toimivan pohjaratkaisun ansiosta asunto soveltuu loistavasti vaikka pienelle perheelle tai kimppakämpäksi. Asunto sijaitsee hissitalon kolmannessa kerroksessa.",
+            "Alue tarjoaa asukkailleen rauhallisen elinympäristön, jossa lähellä on hyvät ulkoilualueet ja harrastusmahdollisuudet. Päivittäispalvelut, koulu ja terveyspalvelut lähellä.",
+            "Ota yhteyttä, niin sovitaan yksityisesittely!",
+            "Kodit.io:lla on mahdollisuus tarjota myös nykyisestä kodistasi!"
+          ],
+          "description_heading": "Remontoitu kaksio rauhallisella sijainnilla",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14951878",
+          "image": "/assets/images/apts/D3_9283-600x400.jpg",
+          "maintenance_fee": "248.33",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 189000,
+          "renovation_fee": "32.25",
+          "room_details": [
+            {
+              "room_features": [
+                "Vaaleat kaapistot",
+                "Hyvin laskutilaa",
+                "Jääkaappi-pakastin",
+                "Astianpesukone",
+                "Liesi ja liesituuletin"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Seinät ja lattia: laatta",
+                "Peili- ja allaskaappi",
+                "Suihku, suihkuseinä",
+                "Pesukoneliitäntä"
+              ],
+              "room_name": "Kylpyhuone"
+            }
+          ],
+          "rooms": 2,
+          "size": 64.5,
+          "status": "ready",
+          "titleEncoded": "rakentajantie-10-e-64",
+          "total_floors": "6",
+          "filename": "rakentajantie-10-e-64/",
+          "price_sqm": 2930,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0115",
+          "address": "Riistavuorenkuja 4  F 72",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.2176622, lng: 24.8876859",
+          "address_country": "Finland",
+          "address_neighbourhood": "Etelä-Haaga",
+          "address_postcode": "00320",
+          "address_street": "Riistavuorenkuja 4  F 72",
+          "agent": "Katariina Suvisaari-Kallio",
+          "agent_email": "katariina@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/katariina-suvisaari-avatar.jpg",
+          "agent_telephone": "0405088463",
+          "agent_title": "Sales Manager, Kiat",
+          "apartment_images": [
+            "/assets/images/apts/D3_9528.jpg",
+            "/assets/images/apts/D3_9529.jpg",
+            "/assets/images/apts/D3_9531.jpg",
+            "/assets/images/apts/D3_9532.jpg",
+            "/assets/images/apts/D3_9535.jpg",
+            "/assets/images/apts/D3_9537.jpg",
+            "/assets/images/apts/D3_9539.jpg",
+            "/assets/images/apts/D3_9540.jpg",
+            "/assets/images/apts/D3_9541.jpg",
+            "/assets/images/apts/D3_9542.jpg",
+            "/assets/images/apts/D3_9546.jpg",
+            "/assets/images/apts/D3_9548.jpg",
+            "/assets/images/apts/D3_9550.jpg",
+            "/assets/images/apts/D3_9551.jpg",
+            "/assets/images/apts/D3_9553.jpg",
+            "/assets/images/apts/D3_9555.jpg",
+            "/assets/images/apts/D3_9561.jpg",
+            "/assets/images/apts/D3_9562.jpg",
+            "/assets/images/apts/D3_9563.jpg",
+            "/assets/images/apts/riistavuorenkuja4f72_logo.jpg"
+          ],
+          "building_year": "1966",
+          "condition": "good",
+          "currency": "euro",
+          "description": "1h, k",
+          "description_details": [
+            "Tässä kodissa on kiva tunnelma. Huoneiston pinnat ovat kauniissa kunnossa ja olohuoneeseen avartuva keittiö on käytännöllinen ja toimiva. Asunnon parvekkeelta avartuu kauniit, metsäiset näkymät Riistavuorenpuistoon ja keskuspuiston loistavat ulkoilualueet ovat aivan lähettyvillä.",
+            "Löydät päivittäiset palvelut läheltä ja kulkuyhteydet ovat hyvät niin autolla, kuin julkisillakin - Huopalahden juna-asemalle on vain 500 metrin matka.",
+            "Hyvin hoidettu, rauhallinen taloyhtiö, jossa myös putkiremontti takana.",
+            "Tervetuloa tutustumaan!"
+          ],
+          "description_heading": "Kaunis, hyväkuntoinen yksiö Etelä-Haagassa erinomaisten kulkuyhteyksien varrella!",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14959600",
+          "image": "/assets/images/apts/D3_9566-600x400.jpg",
+          "maintenance_fee": "108.80",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 212000,
+          "renovation_fee": "13.60",
+          "room_details": [
+            {
+              "room_features": [
+                "Jääkaappi-pakastin",
+                "Astianpesukone",
+                "Kalusteuuni ja liesitaso"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "Peilikaappi",
+                "Pesukoneliitäntä",
+                "Rättipatteri"
+              ],
+              "room_name": "Kylpyhuone"
+            }
+          ],
+          "rooms": 1,
+          "size": 32,
+          "status": "ready",
+          "titleEncoded": "riistavuorenkuja-4-f-72",
+          "total_floors": "4",
+          "filename": "riistavuorenkuja-4-f-72/",
+          "price_sqm": 6625,
+          "compared_price": "This price is high"
+        },
+        {
+          "project_id": "0051",
+          "address": "Kyyhkysmäki 20 B 29",
+          "address_city": "Espoo",
+          "address_coordinates": "lat: 60.2285345, lng: 24.8094217",
+          "address_country": "Finland",
+          "address_neighbourhood": "Leppävaara",
+          "address_postcode": "02650",
+          "address_street": "Kyyhkysmäki 20 B 29",
+          "agent": "Katariina Suvisaari-Kallio",
+          "agent_email": "katariina@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/katariina-suvisaari-avatar.jpg",
+          "agent_telephone": "0405088463",
+          "agent_title": "Sales Manager, Kiat",
+          "apartment_images": [
+            "/assets/images/apts/D3_8970-2.jpg",
+            "/assets/images/apts/D3_8973-1.jpg",
+            "/assets/images/apts/D3_8974-1.jpg",
+            "/assets/images/apts/D3_8977-1.jpg",
+            "/assets/images/apts/D3_8978-1.jpg",
+            "/assets/images/apts/D3_8980-1.jpg",
+            "/assets/images/apts/D3_8981-1.jpg",
+            "/assets/images/apts/D3_8983-1.jpg",
+            "/assets/images/apts/D3_8984-1.jpg",
+            "/assets/images/apts/D3_8985-1.jpg",
+            "/assets/images/apts/D3_8986-1.jpg",
+            "/assets/images/apts/D3_8987-1.jpg",
+            "/assets/images/apts/D3_8988-1.jpg",
+            "/assets/images/apts/D3_8991-1.jpg",
+            "/assets/images/apts/D3_8993-1.jpg",
+            "/assets/images/apts/D3_8994-1.jpg",
+            "/assets/images/apts/D3_8996-1.jpg",
+            "/assets/images/apts/D3_8997-1.jpg",
+            "/assets/images/apts/D3_9000-1.jpg",
+            "/assets/images/apts/D3_9002-1.jpg",
+            "/assets/images/apts/D3_9003-1.jpg",
+            "/assets/images/apts/D3_9004-1.jpg",
+            "/assets/images/apts/D3_9007-1.jpg",
+            "/assets/images/apts/D3_9009-1.jpg",
+            "/assets/images/apts/kyyhkysmaki20b29_logo-1.jpg"
+          ],
+          "building_year": "1995",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h, k, s",
+          "description_details": [
+            "Tässä kodissa on tilava avokeittiön ja olohuoneen yhdistelmä, joka kutsuu nauttimaan yhteisestä ajasta. Asunnon pintoja on päivitetty kauniin vaaleilla sävyillä.",
+            "Omassa saunassa nautit rauhassa löylyistä ja erillinen wc tuo helppoutta arkeen. Eteisen ja makuuhuoneen kaapistot tuovat asuntoon hyvin säilytystilaa. Asunto sijaitsee ylimmässä kolmannessa kerroksessa.",
+            "Alue tarjoaa asukkailleen rauhallisen elinympäristön, jossa lähellä on hyvät ulkoilualueet ja harrastusmahdollisuudet. Sello ja Leppävaaran juna-asema kävelymatkan etäisyydellä.",
+            "Ota yhteyttä, niin sovitaan yksityisesittely!",
+            "Kodit.io:lla on mahdollisuus tarjota myös nykyisestä kodistasi!"
+          ],
+          "description_heading": "Tervetuloa tutustumaan kodikkaaseen kerrostalokaksioon.",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/espoo/14954696",
+          "image": "/assets/images/apts/D3_8970-600x400.jpg",
+          "maintenance_fee": "248",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "Vesimaksu: 21e / hlö / kk",
+          "price": 206000,
+          "renovation_fee": 0,
+          "room_details": [
+            {
+              "room_features": [
+                "Jääkaappi-pakastin",
+                "Astianpesukone",
+                "Keraaminen liesi ja liesituuletin"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Sauna",
+                "Erillinen wc",
+                "Pesukoneliitäntä",
+                "Seinät: laatta",
+                "Lattia: muovi"
+              ],
+              "room_name": "Kylpyhuone"
+            }
+          ],
+          "rooms": 2,
+          "size": 59.5,
+          "status": "ready",
+          "titleEncoded": "kyyhkysmaki-20-b-29",
+          "total_floors": "3",
+          "filename": "kyyhkysmaki-20-b-29/",
+          "price_sqm": 3462,
+          "compared_price": "This price is ok"
+        },
+        {
+          "project_id": "0097",
+          "address": "Törmäniityntie 15 A",
+          "address_city": "Espoo",
+          "address_coordinates": "lat: 60.2262331, lng: 24.7339633",
+          "address_country": "Finland",
+          "address_neighbourhood": "Viherlaakso",
+          "address_postcode": "02710",
+          "address_street": "Törmäniityntie 15 A",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/D3_7726.jpg",
+            "/assets/images/apts/D3_7727.jpg",
+            "/assets/images/apts/D3_7729.jpg",
+            "/assets/images/apts/D3_7730.jpg",
+            "/assets/images/apts/D3_7711.jpg",
+            "/assets/images/apts/D3_7710.jpg",
+            "/assets/images/apts/D3_7709-1.jpg",
+            "/assets/images/apts/D3_7709.jpg",
+            "/assets/images/apts/D3_7720.jpg",
+            "/assets/images/apts/D3_7738.jpg",
+            "/assets/images/apts/D3_7734.jpg",
+            "/assets/images/apts/D3_7732.jpg",
+            "/assets/images/apts/D3_7724.jpg",
+            "/assets/images/apts/D3_7722.jpg",
+            "/assets/images/apts/D3_7741.jpg",
+            "/assets/images/apts/D3_7742.jpg",
+            "/assets/images/apts/D3_7713.jpg",
+            "/assets/images/apts/D3_7712.jpg",
+            "/assets/images/apts/D3_7744.jpg",
+            "/assets/images/apts/D3_7755.jpg",
+            "/assets/images/apts/D3_7748.jpg",
+            "/assets/images/apts/D3_7758.jpg",
+            "/assets/images/apts/D3_7761.jpg"
+          ],
+          "building_year": "1977",
+          "condition": "good",
+          "currency": "euro",
+          "description": "4h+k+kph+wc",
+          "description_details": [
+            "Valoisa ja hyvän pohjaratkaisun omaava kerrostaloasunto Viherlaaksossa. Avarassa neliössä  on käytännöllinen pohjaratkaisu, jossa tilavalle, lasitetulle parvekkeelle on kulku olohuoneesta. Huoneistossa on tilava olohuone, täysin uusittu, vaaleapintainen ja moderni keittiö jossa integroiduit laitteet. Arjen helppoutta lisää erillinen Wc.",
+            "Kodit.io:lle on myös mahdollisuus tarjota vanha asuntosi vaihdossa!",
+            "Ota yhteyttä ja kysy lisää kohdetta hoitavalta välittäjältä!",
+            "Toni Leskinen, LKV\r\nKodit.io\r\n040 128 5108\r\ntoni@kodit.io"
+          ],
+          "description_heading": "Neljännen kerroksen läpitalon huoneisto!",
+          "floor": "4",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/espoo/14923609",
+          "image": "/assets/images/apts/D3_7726-600x400.jpg",
+          "maintenance_fee": "389.15",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 199000,
+          "renovation_fee": "81.45",
+          "room_details": [
+            {
+              "room_features": [
+                "Integroitu liesi",
+                "Integroitu uuni",
+                "Liesituuletin",
+                "Kaapistot",
+                "Jääkaappi-pakastin"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Peilikaappi",
+                "Allaskaappi",
+                "Amme"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Peilikaappi",
+                "Allaskaappi",
+                "Wc-istuin"
+              ],
+              "room_name": "WC"
+            }
+          ],
+          "rooms": 4,
+          "size": 90.5,
+          "status": "ready",
+          "titleEncoded": "tormaniityntie-15-a",
+          "total_floors": "4",
+          "filename": "tormaniityntie-15-a/",
+          "price_sqm": 2199,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0029",
+          "address": "Lintukallionrinne 7 G, 01620 Vantaa",
+          "address_city": "Vantaa",
+          "address_coordinates": "lat: 60.2806086, lng: 24.8639090271226",
+          "address_country": "Finland",
+          "address_neighbourhood": "Martinlaakso",
+          "address_postcode": "01620",
+          "address_street": "Lintukallionrinne 7 G",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-30.jpg",
+            "/assets/images/apts/2-25.jpg",
+            "/assets/images/apts/3-30.jpg",
+            "/assets/images/apts/4-30.jpg",
+            "/assets/images/apts/5-30.jpg",
+            "/assets/images/apts/6-30.jpg",
+            "/assets/images/apts/7-30.jpg",
+            "/assets/images/apts/8-30.jpg",
+            "/assets/images/apts/9-30.jpg",
+            "/assets/images/apts/10-29.jpg",
+            "/assets/images/apts/11-29.jpg",
+            "/assets/images/apts/12-24.jpg",
+            "/assets/images/apts/13-21.jpg"
+          ],
+          "building_year": "1975",
+          "condition": "good",
+          "currency": "euro",
+          "description": "3h + k + parv",
+          "description_details": [
+            "Taloyhtiö on erittäin hyvin pidetty ja sen julkisivu on saneerattu nykyaikaiseksi.",
+            "Erilliseen keittiöön mahtuu ruokailuryhmä, ja kauniit vaaleat pintamateriaalit tuovat valoisuutta koko huoneistoon. Olohuoneesta pääsy lasitetulle parvekkeelle, josta näkymät taloyhtiön rauhalliselle sisäpihalle.",
+            "Parvekkeelle saa mahtumaan helposti parvekekalusteet ja tästä viidennenkerroksen huoneistosta löytyy tilava vaatehuone koko perheen tarpeisiin.",
+            "Asunto sijaitsee hyvällä asuinalueella koulujen, päiväkotien ja palveluiden läheisyydessä.",
+            "Tämä kannattaa tulla katsomaan!"
+          ],
+          "description_heading": "HETI VAPAA remontoitu läpitalon kolmio, jonka kylpyhuone hohtaa uutuuttaan.",
+          "floor": "5",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/vantaa/14880968",
+          "image": "/assets/images/apts/7-30-600x400.jpg",
+          "maintenance_fee": "276.33",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 149000,
+          "renovation_fee": 0,
+          "room_details": [
+            {
+              "room_features": [
+                "Hella",
+                "liesituuletin",
+                "jääkaappi-pakastin",
+                "kaapistot",
+                "hyvin laskutilaa"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "suihkuseinä",
+                "peilikaappi",
+                "wc-istuin",
+                "bideesuihku",
+                "rättipatteri",
+                "liitäntä pesukoneelle"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Vaatehuone",
+                "kellarikomerot"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 3,
+          "size": 75.5,
+          "status": "ready",
+          "total_floors": "5",
+          "titleEncoded": "lintukallionrinne-7-g-01620-vantaa",
+          "filename": "lintukallionrinne-7-g-01620-vantaa/",
+          "price_sqm": 1974,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0088",
+          "address": "Luhtimäki 3 c, 01660 Vantaa",
+          "address_city": "Vantaa",
+          "address_coordinates": "lat: 60.2694345, lng: 24.8204068",
+          "address_country": "Finland",
+          "address_neighbourhood": "Varisto",
+          "address_postcode": "01660",
+          "address_street": "Luhtimäki 3 c",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-28.jpg",
+            "/assets/images/apts/2-23.jpg",
+            "/assets/images/apts/3-28.jpg",
+            "/assets/images/apts/4-28.jpg",
+            "/assets/images/apts/5-28.jpg",
+            "/assets/images/apts/6-28.jpg",
+            "/assets/images/apts/7-28.jpg",
+            "/assets/images/apts/8-28.jpg",
+            "/assets/images/apts/9-28.jpg",
+            "/assets/images/apts/10-27.jpg",
+            "/assets/images/apts/11-27.jpg",
+            "/assets/images/apts/12-23.jpg",
+            "/assets/images/apts/13-20.jpg",
+            "/assets/images/apts/14-18.jpg"
+          ],
+          "building_year": "1977",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h + k + p",
+          "description_details": [
+            "Tähän läpitalon asuntoon on valittu vaaleat pintamateriaalit, keittiössä on hyvin lasku -ja työskentelytilaa. Kylpyhuoneen kaakeilessa kauniit yksityiskohdat, sekä kaksiosta löytyy erillinen wc. Kylpyhuoneessa pesukoneliitäntä. Huoneistossa on säilytystilaa peilikaappien muodossa, ja luovat lisää valoisuuden ja tilantuntua asuntoon. Parveke on suuri ja sinne mahtuvat helposti parvekalusteet. Asunto sijaitsee rauhallisella alueella mukavassa taloyhtiössä.",
+            "Luhtimäen messualue on arvostettu luonnonläheisyydestään, ulkoilureittien riittävyydestä ja hyvistä ulkoilumahdollisuuksista. Asuinalue on tunnettu juuri asuntomessujen luhtitaloistaan, jotka olivat Suomen ensimmäiset."
+          ],
+          "description_heading": "Kaunis, remontoitu kaksio Vantaan Luhtimäessä.",
+          "floor": "2",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/vantaa/14902003",
+          "image": "/assets/images/apts/1-28-600x400.jpg",
+          "maintenance_fee": "255.48",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 157000,
+          "renovation_fee": "11.88",
+          "room_details": [
+            {
+              "room_features": [
+                "Astianpesukone",
+                "jääkaappi-pakastin",
+                "kaapistot",
+                "hyvin laskutilaa"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku, suihkuseinä",
+                "liitäntä pesukoneelle",
+                "allas -ja peilikaappi",
+                "Erillinen wc"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Makuuhuoneessa kaapistot",
+                "ulkovarasto",
+                "ulkoiluvälinevarasto"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 2,
+          "size": 58,
+          "status": "ready",
+          "total_floors": "2",
+          "titleEncoded": "luhtimaki-3-c-01660-vantaa",
+          "filename": "luhtimaki-3-c-01660-vantaa/",
+          "price_sqm": 2707,
+          "compared_price": "This price is ok"
+        },
+        {
+          "project_id": "0068",
+          "address": "Kirstinsyrjä 6B, 02760 Espoo",
+          "address_city": "Espoo",
+          "address_coordinates": "lat: 60.2047626, lng: 24.6719728",
+          "address_country": "Finland",
+          "address_neighbourhood": "Suvela",
+          "address_postcode": "02760",
+          "address_street": "Kirstinsyrjä 6B",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-3.jpg",
+            "/assets/images/apts/2-3.jpg",
+            "/assets/images/apts/3-3.jpg",
+            "/assets/images/apts/4-3.jpg",
+            "/assets/images/apts/5-3.jpg",
+            "/assets/images/apts/6-3.jpg",
+            "/assets/images/apts/7-3.jpg",
+            "/assets/images/apts/8-3.jpg",
+            "/assets/images/apts/9-3.jpg",
+            "/assets/images/apts/10-3.jpg",
+            "/assets/images/apts/11-3.jpg",
+            "/assets/images/apts/12-3.jpg",
+            "/assets/images/apts/13-2.jpg",
+            "/assets/images/apts/14-2.jpg",
+            "/assets/images/apts/15-2.jpg",
+            "/assets/images/apts/16-2.jpg",
+            "/assets/images/apts/17-1.jpg"
+          ],
+          "building_year": "1976",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h + k + kph",
+          "description_details": [
+            "Tässä asunnossa on juuri remontoidut ja tähän päivään tuodut keittiö ja kylpyhuone. Vaaleat materiaalit lisäävät tilantuntua ja säilytystilaakin on runsaasti esimerkiksi makuuhuoneen liukuovikaapiston takana. Tästä on helppo tehdä Koti!",
+            "Kaupat ja palvelut löydät aivan lähiympäristöstä. Lähipysäkeiltä runsaat bussilinjat sekä muualle Espooseen että pääkaupunkiseudulle. Tuomarilan juna-asema on vain 600m päässä ja 23 minuutin junamatka vie sinut siitä Rautatieasemalle.",
+            "Kodit.io:lle on myös mahdollisuus tarjota vanha asuntosi vaihdossa!",
+            "Ota yhteyttä ja kysy lisää kohdetta hoitavalta välittäjältä!"
+          ],
+          "description_heading": "Vaalea ja moderni kaksio Espoon Suvelasta. ",
+          "floor": "2",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/espoo/14849787",
+          "image": "/assets/images/apts/kirstinsyrja-600x400.jpg",
+          "maintenance_fee": "190.75",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "Rahoitusvastikkeesta 27.25 on korjausvastiketta",
+          "price": 116000,
+          "renovation_fee": "190.75",
+          "room_details": [
+            {
+              "room_features": [
+                "Bidee-suihku",
+                "pesukoneliitäntä",
+                "wc-isuin",
+                "suihku",
+                "suihkuseinä",
+                "peilikaappi"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Sähköliesi",
+                "laminaattityötasot",
+                "jääkaapi-pakastin",
+                "liesituuletin",
+                "tilavaraus astianpesukoneelle"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Runsaasti kaappitilaa",
+                "verkkokellari",
+                "ulkovälinevarasto",
+                "kylmäsäilytystilat"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 2,
+          "size": 54.5,
+          "status": "ready",
+          "total_floors": "7",
+          "titleEncoded": "kirstinsyrja-6b-02760-espoo",
+          "filename": "kirstinsyrja-6b-02760-espoo/",
+          "price_sqm": 2128,
+          "compared_price": "This price is low"
+        },
+        {
+          "address": "Vabaduse pst 185a, Nõmme, Tallinn, Harjumaa",
+          "address_city": "Tallinn",
+          "address_coordinates": "lat: 59.3646511, lng: 24.6352979",
+          "address_country": "Estonia",
+          "address_neighbourhood": "Nõmme",
+          "address_postcode": null,
+          "address_street": "Vabaduse pst 185a",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-8.jpg",
+            "/assets/images/apts/2-7.jpg",
+            "/assets/images/apts/3-8.jpg",
+            "/assets/images/apts/4-8.jpg",
+            "/assets/images/apts/5-8.jpg",
+            "/assets/images/apts/6-8.jpg",
+            "/assets/images/apts/7-8.jpg",
+            "/assets/images/apts/8-8.jpg",
+            "/assets/images/apts/9-8.jpg",
+            "/assets/images/apts/10-7.jpg",
+            "/assets/images/apts/11-7.jpg",
+            "/assets/images/apts/12-7.jpg",
+            "/assets/images/apts/13-5.jpg",
+            "/assets/images/apts/14-4.jpg",
+            "/assets/images/apts/15-4.jpg",
+            "/assets/images/apts/16-4.jpg",
+            "/assets/images/apts/17-3.jpg",
+            "/assets/images/apts/18-2.jpg",
+            "/assets/images/apts/19-1.jpg",
+            "/assets/images/apts/20-1.jpg",
+            "/assets/images/apts/21-1.jpg",
+            "/assets/images/apts/22-1.jpg",
+            "/assets/images/apts/23-1.jpg",
+            "/assets/images/apts/24-1.jpg",
+            "/assets/images/apts/25.jpg",
+            "/assets/images/apts/26.jpg",
+            "/assets/images/apts/27.jpg",
+            "/assets/images/apts/28.jpg",
+            "/assets/images/apts/29.jpg",
+            "/assets/images/apts/30.jpg",
+            "/assets/images/apts/31.jpg",
+            "/assets/images/apts/32.jpg",
+            "/assets/images/apts/33.jpg",
+            "/assets/images/apts/34.jpg"
+          ],
+          "building_year": "2007",
+          "condition": "good",
+          "currency": "euro",
+          "description": "8h + wc + kph + parv + s",
+          "description_details": [
+            "Talo sijaitsee erittäin suuressa kiinteistössä - 7482 m². Kiinteistöä ympäröi puutarha, ja siellä on lasten leikkipaikka, trampoliini ja istuimet.",
+            "Huoneistossa on uudet korkealaatuiset keittiötekniikat, seinät ja katot on maalattu ja kylpyhuoneessa on uudet lattia- ja seinälaatat. Maalauksessa on käytetty Skandinavian tyylin luonnollista väripalettia, joka on sopusoinnussa kauniin Nõmme-alueen kanssa.",
+            "Huoneisto on suunniteltu talon läpi ja kaikki huoneet ovat erillisiä. Pääsy olohuoneesta suurelle parvekkeelle (9,7 m2), josta on kauniit näkymät talon sisäpihan mäntyille. Kylpyhuone ja wc erikseen. Kylpyhuoneessa on kylpyamme, suihku ja sauna. Suuri makuuhuone ja eteinen, jossa on sisäänrakennettu vaatekaappi. Kahdessa pienessä makuuhuoneessa on vaatehuone. Luonnollinen tammi-parketti lattialla.",
+            "Huoneistossa on kaksi pysäköintipaikkaa talon sisäpihalla ja 4,8 m 2: n varastotila.",
+            "Kävelymatkan päässä bussipysäkiltä ja rautatieasemalta. Lähistöllä ovat myös Nõmmen uima-allas, kuntokeskus, Pääsküla ja Harkun terveysreitit, koulut, lastentarhat ja kaupat. Erittäin hyvä yhteys kaupungin keskustaan!",
+            "Soita, kysy lisää ja tule katsomaan!"
+          ],
+          "description_heading": "",
+          "floor": "2",
+          "href": "https://www.kv.ee/maja-asub-vaga-suurel-kinnistul-7482-m-aiaga-umbri-3090821.html",
+          "image": "/assets/images/apts/tallin-600x400.jpg",
+          "maintenance_fee": "",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 199000,
+          "renovation_fee": "",
+          "room_details": [
+            {
+              "room_features": [
+                "Sähköliesi",
+                "jääkaappi"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Erillinen kylpyhuone ja wc",
+                "suihku",
+                "kylpyamme",
+                "sauna"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "vaatekaappi",
+                "kaksi vaatehuonetta",
+                "varastotila"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "size": 107.5,
+          "status": "ready",
+          "total_floors": "3",
+          "titleEncoded": "vabaduse-pst-185a-nomme--tallinn--harjumaa",
+          "filename": "vabaduse-pst-185a-nomme--tallinn--harjumaa/",
+          "price_sqm": 1851,
+          "compared_price": "no data"
+        },
+        {
+          "project_id": "0080",
+          "address": "Saanatunturintie 3, 00970 Helsinki",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.23493215, lng: 25.123307846607",
+          "address_country": "Finland",
+          "address_neighbourhood": "Mellunkylä",
+          "address_postcode": "00970",
+          "address_street": "Saanatunturintie 3",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-9.jpg",
+            "/assets/images/apts/2-1.png",
+            "/assets/images/apts/3-9.jpg",
+            "/assets/images/apts/4-9.jpg",
+            "/assets/images/apts/5-9.jpg",
+            "/assets/images/apts/6-9.jpg",
+            "/assets/images/apts/7-9.jpg",
+            "/assets/images/apts/8-9.jpg",
+            "/assets/images/apts/9-9.jpg",
+            "/assets/images/apts/10-8.jpg",
+            "/assets/images/apts/11-8.jpg"
+          ],
+          "building_year": "1971",
+          "condition": "good",
+          "currency": "euro",
+          "description": "3h + k + parveke",
+          "description_details": [
+            "Valoisa kolmio lähellä Mellunmäen metroasemaa. Erilliseen keittiöön mahtuu ruokailuryhmä, sekä molempien makuuhuoneiden kaapistoista löytyy hyvin säilytystilaa perheen tarpeisiin. Eteisen peilikaapit tuovat valoa ja lisätilaa huoneistoon. Lasitetun parvekkeen voi sisustaa viihtyisäksi kesähuoneeksi, joka antaa asuntoon lisää käyttöneliöitä.",
+            "Mellunmäen metroaseman yhteydessä kattavat palvelut. Asuinalueella on hyvät ulkoilumahdollisuudet, ja Mustanvuoren luonnonsuojelualue on kävelymatkan päässä. Mustavuori on pääkaupunkiseudun arvokkain lehtoalue.",
+            "Kodit.io:lle on myös mahdollisuus tarjota vanha asuntosi vaihdossa!",
+            "Ota yhteyttä ja kysy lisää kohdetta hoitavalta välittäjältä!"
+          ],
+          "description_heading": "HETI VAPAA 3h+k Mellunmäessä!",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14833981",
+          "image": "/assets/images/apts/saana-600x400.jpg",
+          "maintenance_fee": "308.06",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 162000,
+          "renovation_fee": "94.17",
+          "room_details": [
+            {
+              "room_features": [
+                "Uuni",
+                "keraaminenliesi",
+                "liesituuletin",
+                "tiskiallas",
+                "valmius tiskikoneelle",
+                "jääkaappi-pakastin"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "amme",
+                "lavuaari",
+                "peilikaappi",
+                "wc-istuin"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Kellarikomero",
+                "kaapistot"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 3,
+          "size": 73,
+          "status": "ready",
+          "total_floors": "3",
+          "titleEncoded": "saanatunturintie-3-00970-helsinki",
+          "filename": "saanatunturintie-3-00970-helsinki/",
+          "price_sqm": 2219,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0059",
+          "address": "Maunulanmäki 1, 00630 Helsinki",
+          "address_city": "Helsinki",
+          "address_coordinates": "lat: 60.2289044, lng: 24.9306646",
+          "address_country": "Finland",
+          "address_neighbourhood": "Maunula",
+          "address_postcode": "00630",
+          "address_street": "Maunulanmäki 1",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-15.jpg",
+            "/assets/images/apts/2-12.jpg",
+            "/assets/images/apts/3-15.jpg",
+            "/assets/images/apts/4-15.jpg",
+            "/assets/images/apts/5-15.jpg",
+            "/assets/images/apts/6-15.jpg",
+            "/assets/images/apts/7-15.jpg",
+            "/assets/images/apts/8-15.jpg",
+            "/assets/images/apts/9-15.jpg",
+            "/assets/images/apts/10-14.jpg",
+            "/assets/images/apts/11-14.jpg",
+            "/assets/images/apts/12-11.jpg",
+            "/assets/images/apts/13-9.jpg",
+            "/assets/images/apts/14-7.jpg",
+            "/assets/images/apts/15-5.jpg",
+            "/assets/images/apts/16-5.jpg",
+            "/assets/images/apts/17-4.jpg"
+          ],
+          "building_year": "1972",
+          "condition": "good",
+          "currency": "euro",
+          "description": "3h + k",
+          "description_details": [
+            "Asunto on pohjaratkaisultaan erittäin toimiva. Remontoidussa huoneistossa on tilava olohuone, täysin uusittu, vaaleapintainen ja moderni keittiö jossa integroiduit laitteet. Asunnon pohjaratkaisu on selkeä ja helppo kalustaa mieleisekseen. Asunnon ikkunat ovat talon molemmin puolin rauhaisilla näkymillä. Juuri ehostettuun kylpyhuoneeseen on asennettu hierova suihkukaappi ja kylpyhuoneessa on tilavaraus myös pesukoneelle.",
+            "Meillä on asunnossa elektroninenlukko ja tätä asuntoa pääset katsomaan 24/7 ilman välittäjää, kysy lisää!",
+            "Ota yhteyttä ja kysy lisää kohdetta hoitavalta välittäjältä!"
+          ],
+          "description_heading": "Hyväkuntoinen kolmio Maunulassa!",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/14777620",
+          "image": "/assets/images/apts/181997684-600x400.jpg",
+          "maintenance_fee": "321.53",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 209000,
+          "renovation_fee": "46.93",
+          "room_details": [
+            {
+              "room_features": [
+                "Integroiduin laittein varusteltu keittiö",
+                "induktioliesitaso",
+                "erillisuuni",
+                "liesikupu",
+                "jääkaappi-pakastin",
+                "astianpesukone",
+                "kaapistot"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihkukaappi",
+                "kuivatuspatteri",
+                "pesukoneliitäntä"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Vaatekomero",
+                "vaatekaapit"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 3,
+          "size": 73.5,
+          "status": "ready",
+          "total_floors": "4",
+          "titleEncoded": "maunulanmaki-1-00630-helsinki",
+          "filename": "maunulanmaki-1-00630-helsinki/",
+          "price_sqm": 2844,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0050",
+          "address": "Sokinvuorenrinne 4 A, 02760 Espoo",
+          "address_city": "Espoo",
+          "address_coordinates": "lat: 60.2004352, lng: 24.6683626",
+          "address_country": "Finland",
+          "address_neighbourhood": "Espoo keskus",
+          "address_postcode": "02760",
+          "address_street": "Sokinvuorenrinne 4 A",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-17.jpg",
+            "/assets/images/apts/2-13.jpg",
+            "/assets/images/apts/3-17.jpg",
+            "/assets/images/apts/4-17.jpg",
+            "/assets/images/apts/5-17.jpg",
+            "/assets/images/apts/6-17.jpg",
+            "/assets/images/apts/7-17.jpg",
+            "/assets/images/apts/8-17.jpg",
+            "/assets/images/apts/9-17.jpg",
+            "/assets/images/apts/10-16.jpg",
+            "/assets/images/apts/11-16.jpg",
+            "/assets/images/apts/12-13.jpg",
+            "/assets/images/apts/13-11.jpg",
+            "/assets/images/apts/14-9.jpg"
+          ],
+          "building_year": null,
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h + k",
+          "description_details": [
+            "Tilavaan keittiöön mahtuu ruokailuryhmä, kaapisto ja pinnat ovat juuri uusittu kauniin vaaleiksi. Avarat näkymät keittiön suuresta ikkunasta. Olohuoneesta pääsy tilavalle parvekkeelle, josta näkymät taloyhtiön rauhallliselle sisäpihalle. Asunnon lattiat ja seinät remontoitu 2017.",
+            "Lähikauppa ja peruspalvelut aivan vieressä. Espoon Keskuksen Entresse-kauppakeskukseen vain noin kilometrin matka. Tiheät kulkuyhteydet julkisilla Helsingin ytimeen kuin Nuuksion kansallispuistoonkin.",
+            "Kodit.io:lle on myös mahdollisuus tarjota vanha asuntosi vaihdossa!",
+            "Ota yhteyttä ja kysy lisää kohdetta hoitavalta välittäjältä!"
+          ],
+          "description_heading": "Remontoitu valoisa kaksio, Espoon Suvelasta.",
+          "floor": "3",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/espoo/14854966",
+          "image": "/assets/images/apts/sokin2-600x400.jpg",
+          "maintenance_fee": "265.35",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 117000,
+          "renovation_fee": "0",
+          "room_details": [
+            {
+              "room_features": [
+                "Liesi",
+                "liesituuletin",
+                "jääkaappi-pakastin"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "suihkukaappi",
+                "kuivausteline",
+                "allaskaappi",
+                "peilikaappi",
+                "wc-istuin"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Kellarikomero"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 2,
+          "size": 61,
+          "status": "ready",
+          "total_floors": "9",
+          "titleEncoded": "sokinvuorenrinne-4-a-02760-espoo",
+          "filename": "sokinvuorenrinne-4-a-02760-espoo/",
+          "price_sqm": 1918,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "TRE1",
+          "address": "Ojavainionkatu 8 B 10, 33710 Tampere",
+          "address_city": "Tampere",
+          "address_coordinates": "lat: 61.4618507, lng: 23.8951494",
+          "address_country": "Finland",
+          "address_neighbourhood": "Kaukajärvi",
+          "address_postcode": "33710",
+          "address_street": "Ojavainionkatu 8 B 10",
+          "agent": "Hannamari Raivio",
+          "agent_email": "hannamari@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/hannamari-raivio-avatar.jpg",
+          "agent_telephone": "0400605706",
+          "agent_title": "Real estate Specialist",
+          "apartment_images": [
+            "/assets/images/apts/5-23.jpg",
+            "/assets/images/apts/6-23.jpg",
+            "/assets/images/apts/7-23.jpg",
+            "/assets/images/apts/8-23.jpg",
+            "/assets/images/apts/9-23.jpg",
+            "/assets/images/apts/10-22.jpg",
+            "/assets/images/apts/11-22.jpg",
+            "/assets/images/apts/12-19.jpg",
+            "/assets/images/apts/13-16.jpg",
+            "/assets/images/apts/14-14.jpg",
+            "/assets/images/apts/15-10.jpg",
+            "/assets/images/apts/16-9.jpg",
+            "/assets/images/apts/17-7.jpg",
+            "/assets/images/apts/18-4.jpg",
+            "/assets/images/apts/19-2.jpg",
+            "/assets/images/apts/2-18.jpg",
+            "/assets/images/apts/3-23.jpg",
+            "/assets/images/apts/1-23.jpg"
+          ],
+          "building_year": "1985",
+          "condition": "good",
+          "currency": "euro",
+          "description": "2h+k+kph+s+las.parv",
+          "description_details": [
+            "Tervetuloa tutustumaan tähän muuttovalmiiseen kerrostalokotiin. Asunnossa on valmistunut vastikään remontti, jossa uusittu muun muassa keittiö ja pinnat. Asunnossa on käytännöllisen kokoinen makuuhuone, olohuone ja erillinen keittiö. Lisäksi asuntoon kuuluu tilava kylpyhuone, jossa on pesukonevalmius ja sauna. Ulkoilmasta pääset nauttimaan lasitetulta parvekkeelta, joka toimii lämpimillä säillä lähes lisähuoneena. Asunto on läpitalon huoneisto, joten luonnonvaloa riittää koko päivän ajan.",
+            "Yhtiössä on asukkaiden käytössä muun muassa ullakkokomero, väestönsuoja, kerhohuone, askarteluhuone, ulkoiluvälinevarasto ja pesutupa. Hyvä sijainti lähellä päivittäispalveluita. Alueelta on myös hyvät kulkuyhteydet ja sieltä löytyy monipuoliset ulkoilualueet. Tähän kohteeseen voit sopia myös yksityisnäytön!",
+            "Omistajan sanoin: Rauhallinen ja mukava sijainti. Annalan hyvät palvelut lähellä."
+          ],
+          "description_heading": "Valoisa huoneisto käytännöllisellä pohjaratkaisulla",
+          "floor": "2",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/tampere/14788228",
+          "image": "/assets/images/apts/182193559-600x400.jpg",
+          "maintenance_fee": "288.20",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 115900,
+          "renovation_fee": "69.17",
+          "room_details": [
+            {
+              "room_features": [
+                "Jääkaappi-pakastin",
+                "liesi",
+                "liesituuletin",
+                "astianpesukone"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Suihku",
+                "wc-istuin",
+                "peilikaapit",
+                "pesukoneliitäntä"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "kaapistot eteisessä",
+                "ullakkokomerot",
+                "ulkoiluvälinevarasto"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 2,
+          "size": 63,
+          "status": "ready",
+          "total_floors": "3",
+          "titleEncoded": "ojavainionkatu-8-b-10-33710-tampere",
+          "filename": "ojavainionkatu-8-b-10-33710-tampere/",
+          "price_sqm": 1840,
+          "compared_price": "This price is low"
+        },
+        {
+          "project_id": "0023",
+          "address": "Raappavuorenrinne 1 A, 01620 Vantaa",
+          "address_city": "Vantaa",
+          "address_coordinates": "lat: 60.27806095, lng: 24.8377441",
+          "address_country": "Finland",
+          "address_neighbourhood": "Martinlaakso",
+          "address_postcode": "01620",
+          "address_street": "Raappavuorenrinne 1 A",
+          "agent": "Toni Leskinen",
+          "agent_email": "toni@kodit.io",
+          "agent_photo": "/assets/images/about-us/team/toni-leskinen-avatar.jpg",
+          "agent_telephone": "0401285108",
+          "agent_title": "Kiinteistönvälittäjä, LKV",
+          "apartment_images": [
+            "/assets/images/apts/1-26.jpg",
+            "/assets/images/apts/2-21.jpg",
+            "/assets/images/apts/3-26.jpg",
+            "/assets/images/apts/4-26.jpg",
+            "/assets/images/apts/5-26.jpg",
+            "/assets/images/apts/6-26.jpg",
+            "/assets/images/apts/7-26.jpg",
+            "/assets/images/apts/8-26.jpg",
+            "/assets/images/apts/9-26.jpg",
+            "/assets/images/apts/10-25.jpg",
+            "/assets/images/apts/11-25.jpg",
+            "/assets/images/apts/12-21.jpg",
+            "/assets/images/apts/13-18.jpg",
+            "/assets/images/apts/14-16.jpg",
+            "/assets/images/apts/15-12.jpg",
+            "/assets/images/apts/16-11.jpg",
+            "/assets/images/apts/17-8.jpg",
+            "/assets/images/apts/18-5.jpg",
+            "/assets/images/apts/19-3.jpg",
+            "/assets/images/apts/20-2.jpg",
+            "/assets/images/apts/21-2.jpg",
+            "/assets/images/apts/22-2.jpg",
+            "/assets/images/apts/23-2.jpg",
+            "/assets/images/apts/24-2.jpg",
+            "/assets/images/apts/25-1.jpg",
+            "/assets/images/apts/26-1.jpg",
+            "/assets/images/apts/27-1.jpg"
+          ],
+          "building_year": "1972",
+          "condition": "good",
+          "currency": "euro",
+          "description": "4h + k + las.parv",
+          "description_details": [
+            "Tervetuloa tutustumaan muuttovalmiiseen kerrostalokotiin. Asunnossa on kolme makuuhuonetta, tilava olohuone ja erillinen keittiö, johon mahtuu ruokapöytä. Asuinmukavuutta lisää oma lasitettu parveke, jolta voi katsella pitkälle puiden yli. Toimivan pohjaratkaisun ansiosta asunto soveltuu loistavasti vaikka pienelle perheelle. Yhtiön pihalla on leikkiialue lapsille. Talo on hissillinen. Asunto sijaitsee seitsämänkerroksisen talon kuudennessa kerroksessa. Alueella on päivittäispalveluita ja hyvät kulkuyhteydet. Alue tarjoaa asukkailleen rauhallisen elinympäristön, jossa lähellä on hyvät ulkoilualueet ja harrastusmahdollisuudet. Tule ja tee tästä koti. Kohteeseen voi sopia myös yksityisnäytön!",
+            "Omistajan sanoin: Peruspalvelut, päiväkodit ja koulut sekä liikenneyhteydet kävelymatkan päässä"
+          ],
+          "description_heading": "Kuudennen kerroksen parvekkeellinen kolmio",
+          "floor": "6",
+          "href": "https://asunnot.oikotie.fi/myytavat-asunnot/vantaa/14926475",
+          "image": "/assets/images/apts/181953143-600x400.jpg",
+          "maintenance_fee": "334.40",
+          "open_house_date": "",
+          "open_house_time": "",
+          "open_house_weekday": null,
+          "other_expenses": "",
+          "price": 161000,
+          "renovation_fee": 0,
+          "room_details": [
+            {
+              "room_features": [
+                "Jääkaappi-pakastin",
+                "liesi",
+                "liesituuletin",
+                "astianpesukone"
+              ],
+              "room_name": "Keittiö"
+            },
+            {
+              "room_features": [
+                "Amme",
+                "pesukoneliitäntä",
+                "peilikaapisto",
+                "allaskaappi",
+                "pyykkinarut",
+                "bideesuihku"
+              ],
+              "room_name": "Kylpyhuone"
+            },
+            {
+              "room_features": [
+                "Ulkoiluvälinevarasto",
+                "kylmäsäilytystilat",
+                "kellarikomerot"
+              ],
+              "room_name": "Säilytystilat"
+            }
+          ],
+          "rooms": 4,
+          "size": 88,
+          "status": "ready",
+          "total_floors": "7",
+          "titleEncoded": "raappavuorenrinne-1-a-01620-vantaa",
+          "filename": "raappavuorenrinne-1-a-01620-vantaa/",
+          "price_sqm": 1830,
+          "compared_price": "This price is low"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

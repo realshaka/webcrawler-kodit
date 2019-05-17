@@ -1,0 +1,13 @@
+Region,Building type,Number of rooms,Price per square meter
+Helsinki,Blocks of flats,One-room flat,6054
+Helsinki,Blocks of flats,Two-room flat,4556
+Helsinki,Blocks of flats,Three-room flat+,4295
+Espoo,Blocks of flats,One-room flat,4143
+Espoo,Blocks of flats,Two-room flat,3508
+Espoo,Blocks of flats,Three-room flat+,3210
+Vantaa,Blocks of flats,One-room flat,3331
+Vantaa,Blocks of flats,Two-room flat,2630
+Vantaa,Blocks of flats,Three-room flat+,2284
+Tampere,Blocks of flats,One-room flat,3133
+Tampere,Blocks of flats,Two-room flat,2556
+Tampere,Blocks of flats,Three-room flat+,2374
