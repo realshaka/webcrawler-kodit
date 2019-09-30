@@ -1,13 +1,12 @@
+import datetime as dt
+import json
+
 from bs4 import BeautifulSoup
 import requests
-import re
-import json
-import ast
-import datetime as dt
 import csv, sys
 import pandas as pd
 
-source_link = "https://kodit.io/fi/buy/"
+source_link = "https://kodit.io/en/apartments-for-sale/"
 source = requests.get(source_link)
 soup_source = BeautifulSoup(source.content, "html.parser")
 result = []
@@ -53,15 +52,15 @@ for link in soup_source.findAll(
     # print(apartment)
     apartment_dict = dict(json.loads(apartment))
     try:
-        comparedPrice = return_PriceComparison(
+        comapred_price = return_PriceComparison(
             apartment_dict["address_city"],
-            apartment_dict["rooms"],
+            int(apartment_dict["rooms"]),
             apartment_dict["price_sqm"],
         )
     except KeyError:
-        comparedPrice = "no data"
-    apartment_dict.update({"compared_price": comparedPrice})
-    # print(comparedPrice)
+        comapred_price = "no data"
+    apartment_dict.update({"compared_price": comapred_price})
+    # print(comapred_price)
     result.append(apartment_dict)
 
 payload = {
@@ -73,12 +72,11 @@ payload = {
 with open("result.json", "w") as f:
     json.dump(payload, f)
 
-# r = requests.post(
-#     "https://cc677kr6sc.execute-api.eu-central-1.amazonaws.com/data", json=payload
-# )
-
+r = requests.post(
+    "https://cc677kr6sc.execute-api.eu-central-1.amazonaws.com/data", json=payload
+)
 
 # Test with local json server
-r = requests.post("http://localhost:3000/data", json=payload)
+# r = requests.post("http://localhost:3000/data", json=payload)
 
-print(r)
+# print(r)
